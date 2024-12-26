@@ -10,9 +10,9 @@ body{
 
 .calculadora{
     width: 260px;
-    border: 2px solid #333;
-    border-radius: 10px;
-    background-color: #fff;
+    border: 1px solid #333;
+    border-radius: 15px;
+    background-color: #154c8b;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
 }
@@ -26,7 +26,8 @@ body{
     padding: 5px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    background-color: #f9f9f9;
+    background-color: #0b8154;
+    color: #333;
 }
 
 .botoes{
@@ -36,10 +37,11 @@ body{
 }
 
 .btn {
+    color: #f4f4f4;
     padding:20px;
     font-size: 18px;
-    background-color: #f0f0f0;
-    border-radius: 5px;
+    background-color: #131111;
+    border-radius: 15px;
     cursor: pointer;
     transition: background-color 0.2s;
 }
