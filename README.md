@@ -9,7 +9,9 @@ A simple **calculator** built with **HTML**, **CSS**, and **JavaScript**. This p
 - Clear screen with **C**
 - Calculate expression by pressing **=**
 - Supports decimal numbers
-![Calculator Image](assets/calculadora.png)
+- 
+![Calculator Image](calculadora.png)
+
 ## Technologies Used
 
 - **HTML**: Structure of the calculator
